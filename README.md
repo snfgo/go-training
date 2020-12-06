@@ -25,12 +25,11 @@ This section combines list of resources to get started with Go. List of video, w
 2. [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/)
 3. [Essential Go](https://essential-go.programming-books.io/)
 
-
-## 2. Working with HTTP
+## 2. Working with HTTP and unit testing
 TODO: Add http materials and tasks
 
-## 3. Writing unit tests
-TODO: Add unit test materials and tasks
+## 3. CLI interface and concurrency
+TODO: Add concurrency materials and tasks
 
 ## 4. Microservices and gRPC
 TODO: Add microservices materials and tasks
