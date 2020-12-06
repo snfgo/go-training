@@ -5,7 +5,7 @@ This section combines list of resources to get started with Go. List of video, w
 
 ### Videos:
 1. [freeCodeCamp.org
-](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org?target=_blank)
+](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org)
 2. [Traversy Media](https://www.youtube.com/watch?v=SqrbIlUwR0U&ab_channel=TraversyMedia)
 3. [Derek Banas](https://www.youtube.com/watch?v=CF9S4QZuV30&ab_channel=DerekBanas)
 
