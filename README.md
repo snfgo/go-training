@@ -24,3 +24,19 @@ This section combines list of resources to get started with Go. List of video, w
 1. [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/cover.html)
 2. [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/)
 3. [Essential Go](https://essential-go.programming-books.io/)
+
+
+## 2. Working with HTTP
+TODO: Add http materials and tasks
+
+## 3. Writing unit tests
+TODO: Add unit test materials and tasks
+
+## 4. Microservices and gRPC
+TODO: Add microservices materials and tasks
+
+## 5. Further reading
+1. [Awesome Go](https://awesome-go.com/) - website with resources and popular libraries
+2. [Go in 5 minutes](https://www.goin5minutes.com/screencasts/) - awesome screencasts to learn a lot just in 5 minutes
+3. [Design patterns](https://github.com/shubhamzanwar/design-patterns) - small list of most useful design patterns
+4. [Effective Go](https://golang.org/doc/effective_go.html) - writing golang as it was intended to be written
