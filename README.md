@@ -15,7 +15,7 @@ This section combines list of resources to get started with Go. List of video, w
 
 ### Readings:
 1. [Golang for NodeJS developers](https://github.com/miguelmota/golang-for-nodejs-developers)
-2. [Go By Example](https://gobyexample.com/)
+2. [Go by example](https://gobyexample.com/)
 3. [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 4. [Go cheat sheet](https://github.com/a8m/golang-cheat-sheet)
 5. [Learning Go "From Zero To Hero"](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)
@@ -26,7 +26,27 @@ This section combines list of resources to get started with Go. List of video, w
 3. [Essential Go](https://essential-go.programming-books.io/)
 
 ## 2. Working with HTTP and unit testing
-TODO: Add http materials and tasks
+
+Videos:
+1. [Simple API in Go Part 1](https://www.youtube.com/watch?v=W5b64DXeP0o&t=175s&ab_channel=TutorialEdge)
+2. [Simple API in Go Part 2](https://www.youtube.com/watch?v=YMQUQ6XQgz8&ab_channel=TutorialEdge)
+3. [Simple API int 5 minutes](https://www.goin5minutes.com/screencast/episode_1_building_restful_api_using_only_std_lib/)
+4. [Testable code with mocking in 5 minutes](https://www.goin5minutes.com/screencast/episode_0_writing_testable_code_and_fast_unit_tests_using_mocking/)
+
+Tools:
+1. [Gin HTTP framework](https://github.com/gin-gonic/gin)
+2. [Chi HTTP framework](https://github.com/go-chi/chi)
+3. [Testify unit test framework](https://github.com/stretchr/testify)
+
+Readings:
+1. [Web applications in GO](https://golang.org/doc/articles/wiki/)
+2. [Go Web Examples](https://gowebexamples.com/)
+
+Documentation:
+1. [HTTP Package](https://golang.org/pkg/net/http/)
+2. [JSON Package](https://golang.org/pkg/encoding/json/)
+3. [Errors Package](https://golang.org/pkg/errors/)
+4. [Testing Package](https://golang.org/pkg/testing/)
 
 ## 3. CLI interface and concurrency
 TODO: Add concurrency materials and tasks
