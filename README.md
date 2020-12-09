@@ -59,3 +59,4 @@ TODO: Add microservices materials and tasks
 2. [Go in 5 minutes](https://www.goin5minutes.com/screencasts/) - awesome screencasts to learn a lot just in 5 minutes
 3. [Design patterns](https://github.com/shubhamzanwar/design-patterns) - small list of most useful design patterns
 4. [Effective Go](https://golang.org/doc/effective_go.html) - writing golang as it was intended to be written
+5. [Writing beautiful packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4&ab_channel=CodingTech) - how to write packages in GO
