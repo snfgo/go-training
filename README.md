@@ -44,9 +44,10 @@ Readings:
 
 Documentation:
 1. [HTTP Package](https://golang.org/pkg/net/http/)
-2. [JSON Package](https://golang.org/pkg/encoding/json/)
-3. [Errors Package](https://golang.org/pkg/errors/)
-4. [Testing Package](https://golang.org/pkg/testing/)
+2. [HTTPTest Package](https://golang.org/pkg/net/http/httptest/)
+3. [JSON Package](https://golang.org/pkg/encoding/json/)
+4. [Errors Package](https://golang.org/pkg/errors/)
+5. [Testing Package](https://golang.org/pkg/testing/)
 
 [Home Work](https://github.com/snfgo/go-training/tree/master/tasks/http)
 
