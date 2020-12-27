@@ -52,7 +52,23 @@ Documentation:
 [Home Work](https://github.com/snfgo/go-training/tree/master/tasks/http)
 
 ## 3. CLI interface and concurrency
-TODO: Add concurrency materials and tasks
+
+Videos:
+1. [Concurrency in 20min](https://www.youtube.com/watch?v=LvgVSSpwND8&t=13s&ab_channel=JakeWright)
+2. [Goroutine Tutorial](https://www.youtube.com/watch?v=ARHXmR0_MGY&ab_channel=TutorialEdge)
+3. [Basic Channels Tutorial](https://www.youtube.com/watch?v=e4bu9g-bYtg&ab_channel=TutorialEdge)
+4. [sync.WaitGroup Basics](https://www.youtube.com/watch?v=0BPSR-W4GSY&ab_channel=TutorialEdge)
+5. [Mutex in Go](https://www.youtube.com/watch?v=cjMdUmfzQWs&ab_channel=TutorialEdge)
+
+Readings:
+1. [Go by Example: Goroutines](https://gobyexample.com/goroutines)
+2. [Go by Example: Channels](https://gobyexample.com/channels)
+3. [Go by Example: WaitGroups](https://gobyexample.com/waitgroups)
+4. [Go by Example: Worker Pools](https://gobyexample.com/worker-pools)
+
+Documentation:
+1. [OS package](https://golang.org/pkg/os/)
+2. [Flag package](https://golang.org/pkg/flag/)
 
 ## 4. Microservices and gRPC
 TODO: Add microservices materials and tasks
