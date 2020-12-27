@@ -71,7 +71,20 @@ Documentation:
 2. [Flag package](https://golang.org/pkg/flag/)
 
 ## 4. Microservices and gRPC
-TODO: Add microservices materials and tasks
+Videos:
+1. [Beginners Guide to gRPC in Go!](https://www.youtube.com/watch?v=BdzYdN_Zd9Q&t=13s&ab_channel=TutorialEdge)
+2. [justforfunc gRPC Basics](https://www.youtube.com/watch?v=uolTUtioIrc&ab_channel=justforfunc%3AProgramminginGo)
+4. [Introduction to gRPC and Protocol Buffers](https://www.youtube.com/watch?v=pMgty_RYIOc&list=PLmD8u-IFdreyyTx93jJ5GkijwDXFqyr3T&ab_channel=NicJackson)
+5. [justforfunc Context Package](https://www.youtube.com/watch?v=LSzR0VEraWw&ab_channel=justforfunc%3AProgramminginGo)
+
+Readings:
+1. [gRPC website](https://grpc.io/)
+2. [Protocol Buffers](https://developers.google.com/protocol-buffers)
+3. [gRPC Quick Start](https://grpc.io/docs/languages/go/quickstart/)
+4. [gPRC Basic Tutorial](https://grpc.io/docs/languages/go/basics/)
+
+Documentation:
+1. [gRPC package](https://pkg.go.dev/google.golang.org/grpc)
 
 ## 5. Further reading
 1. [Awesome Go](https://awesome-go.com/) - website with resources and popular libraries
