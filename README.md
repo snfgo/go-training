@@ -61,16 +61,20 @@ Videos:
 5. [Mutex in Go](https://www.youtube.com/watch?v=cjMdUmfzQWs&ab_channel=TutorialEdge)
 
 Readings:
-1. [Go by Example: Goroutines](https://gobyexample.com/goroutines)
-2. [Go by Example: Channels](https://gobyexample.com/channels)
-3. [Go by Example: WaitGroups](https://gobyexample.com/waitgroups)
-4. [Go by Example: Worker Pools](https://gobyexample.com/worker-pools)
+1. [Learning Go’s Concurrency Through Illustrations](https://link.medium.com/N80YkQNCScb)
+2. [Go by Example: Goroutines](https://gobyexample.com/goroutines)
+3. [Go by Example: Channels](https://gobyexample.com/channels)
+4. [Go by Example: WaitGroups](https://gobyexample.com/waitgroups)
+5. [Go by Example: Worker Pools](https://gobyexample.com/worker-pools)
 
 Documentation:
 1. [OS package](https://golang.org/pkg/os/)
 2. [Flag package](https://golang.org/pkg/flag/)
 
+[Home Work](https://github.com/snfgo/go-training/tree/master/tasks/cli-and-concurrency)
+
 ## 4. Microservices and gRPC
+
 Videos:
 1. [Beginners Guide to gRPC in Go!](https://www.youtube.com/watch?v=BdzYdN_Zd9Q&t=13s&ab_channel=TutorialEdge)
 2. [justforfunc gRPC Basics](https://www.youtube.com/watch?v=uolTUtioIrc&ab_channel=justforfunc%3AProgramminginGo)
@@ -87,6 +91,7 @@ Documentation:
 1. [gRPC package](https://pkg.go.dev/google.golang.org/grpc)
 
 ## 5. Further reading
+
 1. [Awesome Go](https://awesome-go.com/) - website with resources and popular libraries
 2. [Go in 5 minutes](https://www.goin5minutes.com/screencasts/) - awesome screencasts to learn a lot just in 5 minutes
 3. [Design patterns](https://github.com/shubhamzanwar/design-patterns) - small list of most useful design patterns
