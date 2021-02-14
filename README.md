@@ -90,6 +90,8 @@ Readings:
 Documentation:
 1. [gRPC package](https://pkg.go.dev/google.golang.org/grpc)
 
+[Home Work](https://github.com/snfgo/go-training/tree/master/tasks/microservices-and-grpc)
+
 ## 5. Further reading
 
 1. [Awesome Go](https://awesome-go.com/) - website with resources and popular libraries
